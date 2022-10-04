@@ -1,0 +1,43 @@
+#div1{
+    background-color: lightblue;
+    box-sizing: border-box;
+    border: solid black 3px;
+    width: 700px;
+    height: 75px;
+}
+
+#div2{
+    background-color: green;
+    box-sizing: border-box;
+    border: solid black 3px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+
+}
+
+#div3{
+    background-color: blue;
+    box-sizing: border-box;
+    border: solid black 3px;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+
+
+}
+
+#div4{
+    background-color: orange;
+    box-sizing: border-box;
+    border: solid black 3px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 300px;
+    left: 300px;
+}
